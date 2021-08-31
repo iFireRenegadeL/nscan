@@ -3,7 +3,7 @@ Escaner de puertos intermedio automatizado hecho en Python junto con Nmap.
 
 ¿Como instalo scripts en OS de sofware libre?
 
-En Linux ejecuta el siguiente comando: git clone https://github.com/iFireRenegade/nscan
+En Linux ejecuta el siguiente comando: git clone https://github.com/iFireRenegadeL/nscan.git
 
 
 En Windows sigue estos pasos:
