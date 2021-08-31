@@ -13,3 +13,7 @@ En Windows sigue estos pasos:
 -Arrastramos el script de Python en el cmd
 
 -Automáticamente nos mostrará la dirección del archivo, damos enter y el archivo se ejecutara
+
+Advertencia!
+
+Es probable que en termux tenga fallas o no funcione
